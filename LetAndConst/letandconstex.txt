@@ -1,0 +1,4 @@
+1. Var is scoped to the function it is declared in and let is block-scoped. Var can also be reassigned and redeclared whereas let can only be reassigned.
+2. const can not be reassigned or redeclared. However, if we have a const array or object it contents can be modified.
+3. let can be reassigned, but constant can not.
+4. For var, variables are declared before they are initialized and assigned. 
